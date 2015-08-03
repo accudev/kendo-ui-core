@@ -53,7 +53,7 @@ See the discussion in [on Stack Overflow](http://stackoverflow.com/questions/534
 
 ### Windows
 
-> Caching the credentials is required if you're using the Kendo UI Bower package in an **ASP.NET vNext** project.
+> Caching the credentials is required if you're using the Kendo UI Bower package in an **ASP.NET vNext** project.  Please make sure that git.exe is in your path.
 
 1. Create a text file called `_netrc` in your home directory (e.g. `c:\users\jane\_netrc`).
 1. Declare a HOME environment variable:
